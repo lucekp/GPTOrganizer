@@ -1,0 +1,55 @@
+{
+  "Travel": {
+    "Destinations": [ "Information or guides about places visited or planning to visit." ],
+    "Itineraries": [ "Detailed plans or schedules for trips." ],
+    "Bookings": {
+      "Flights": [ "Tickets, boarding passes, and related flight details." ],
+      "Hotels": [ "Reservation confirmations, addresses, and details of accommodations." ],
+      "CarRentals": [ "Rental agreements, reservation details, and related information." ],
+      "ToursAndActivities": [ "Tickets, confirmations, or vouchers for specific activities or excursions." ]
+    },
+    "TravelJournals": [ "Personal reflections, experiences, and stories from the road." ],
+    "MapsAndNavigation": [ "Offline maps, trail routes, city maps, and other navigational aids." ],
+    "VisasAndPermits": [ "Documentation granting permission to enter or stay in a country or region." ],
+    "VaccinationsAndHealth": [ "Medical records, vaccination cards, health precautions for specific destinations." ]
+  },
+  "PhotographyAndVideos": {
+    "PhotoGalleries": [ "Collections of photographs from different trips or destinations." ],
+    "Videos": [ "Recorded experiences, vlogs, or documentary-style clips from travels." ],
+    "EditingTools": [ "Software or presets used for editing multimedia." ]
+  },
+  "Gear": {
+    "PackingLists": [ "Checklists of items to pack for different types of trips or destinations." ],
+    "GearReviews": [ "Personal evaluations or notes about travel gear or equipment." ],
+    "Maintenance": [ "Guides or reminders for keeping gear in good condition." ]
+  },
+  "Financial": {
+    "Budgets": [ "Planned expenditure for trips, including details on accommodation, transport, food, etc." ],
+    "Expenses": [ "Records of actual spending while traveling." ],
+    "CurrencyConversions": [ "Information on exchange rates or currency details for specific countries." ]
+  },
+  "LanguageAndCulture": {
+    "Phrasebooks": [ "Useful phrases or vocabulary for different languages." ],
+    "CulturalNotes": [ "Insights or learnings about cultural norms, do's and don'ts, etc." ]
+  },
+  "Connections": {
+    "Contacts": [ "Information of people met during travels, like local guides, fellow travelers, etc." ],
+    "Recommendations": [ "Suggestions from locals or other travelers for places to visit, eat, stay, etc." ]
+  },
+  "FoodAndCuisine": {
+    "LocalRecipes": [ "Instructions to recreate dishes enjoyed during travels." ],
+    "RestaurantReviews": [ "Personal opinions on eateries visited." ],
+    "FoodDiaries": [ "Notes or reflections on culinary experiences." ]
+  },
+  "Safety": {
+    "EmergencyContacts": [ "Local emergency numbers, contacts of embassies, etc." ],
+    "Insurance": [ "Travel insurance documents, policies, and related details." ],
+    "SafetyGuides": [ "Precautions or guidelines for specific destinations or situations." ]
+  },
+  "Inspiration": {
+    "Wishlists": [ "Places, activities, or experiences desired for future travels." ],
+    "Quotes": [ "Motivational or inspiring quotations related to travel." ],
+    "TravelBooks": [ "Digital versions or notes from travel literature." ]
+  },
+  "Miscellaneous": [ "Files or items that don't fit into other categories." ]
+}

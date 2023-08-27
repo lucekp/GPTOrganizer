@@ -1,0 +1,126 @@
+{
+  "Documents": {
+    "GeneralDocuments": [ "General-purpose documents without a specific category." ],
+    "Reports": [ "Documents that summarize and analyze data, often for the purpose of informing decision-making." ],
+    "Invoices": [ "A list of goods sent or services provided, with a statement of the sum due for these." ],
+    "Resumes": [ "A document used by individuals to present their background and skills for employment." ],
+    "Presentations": [ "A visual and often interactive display of information, typically used for lectures or for business meetings." ],
+    "Spreadsheets": [ "Files that allow for data organization in rows and columns, often used for mathematical calculations." ],
+    "Forms": [ "Documents with spaces where you can write or select information." ]
+  },
+  "Media": {
+    "Images": [ "Visual representations, such as photos or illustrations." ],
+    "Videos": [ "Recordings that capture moving visuals with or without sound." ],
+    "Audio": [ "Recordings of sound, could be music, voice, or any other sound." ],
+    "3DModels": [ "Digital representation of any three-dimensional object." ]
+  },
+  "Development": {
+    "Programming": [ "Files associated with software development, including source code." ],
+    "WebFiles": [ "Files related to web development, like HTML, CSS, and JS files." ],
+    "Scripts": [ "Short programs or sequences of commands that automate tasks." ],
+    "Configurations": [ "Files used to set options for operating systems, applications, or services." ],
+    "Databases": [ "Structured sets of data held in a computer." ],
+    "Frameworks": [ "Basic structures underlying a software system." ]
+  },
+  "System": {
+    "SystemFiles": [ "Files crucial for the operating system to function properly." ],
+    "Software": [ "Applications and tools to perform tasks on a computer." ],
+    "Logs": [ "Files that record system or application activities." ],
+    "Backups": [ "Copies of files and data saved as a precaution against data loss." ]
+  },
+  "DesignAndArts": {
+    "Designs": [ "Plans or drawings produced to show the look and function of objects before they are made." ],
+    "Arts": [ "Creative expressions, including paintings, sculptures, and other visual artworks." ],
+    "Fonts": [ "Sets of printable or displayable text characters in a specific style." ]
+  },
+  "Academic": {
+    "ResearchPapers": [ "Detailed documents that report the results of original research and analysis." ],
+    "Books": [ "Longer written works, often on specific subjects or stories." ],
+    "Tutorials": [ "Guided lessons teaching specific skills or knowledge." ]
+  },
+  "Travel": {
+    "Destinations": [ "Information or items related to places to visit." ],
+    "Itineraries": [ "Detailed plans or routes of a journey." ],
+    "Bookings": {
+      "Flights": [ "Reservations for air travel." ],
+      "Hotels": [ "Reservations for accommodation." ],
+      "CarRentals": [ "Reservations for vehicle hire." ]
+    },
+    "Photos": [ "Images captured during travels." ],
+    "TravelGuides": [ "Publications or documents detailing the attractions of a particular location." ]
+  },
+  "SocialMedia": {
+    "Profiles": [ "User's personal pages displaying their information and activities on social media platforms." ],
+    "Posts": [ "User-generated content shared on social media platforms." ],
+    "Images": [ "Pictures shared on social media platforms." ],
+    "Videos": [ "Moving visual media shared on social media platforms." ]
+  },
+  "Personal": {
+    "Diaries": [ "Records, often daily, of a person's experiences and thoughts." ],
+    "Letters": [ "Written messages from one person to another." ],
+    "Certificates": [ "Documents attesting to a fact, like achievements or qualifications." ],
+    "ID_Documents": [ "Official documents proving a person's identity." ],
+    "MedicalRecords": [ "Documentation of a person's medical history and health care." ],
+    "FinancialRecords": {
+      "Bills": [ "Statements of money owed for goods or services." ],
+      "Receipts": [ "Proofs of purchase or payment." ],
+      "TaxDocuments": [ "Records detailing financial income, expenditures, and owed taxes." ]
+    }
+  },
+  "Entertainment": {
+    "Music": {
+      "Genres": {
+        "Rock": [ "A genre of music characterized by a strong rhythm and often used electric instruments." ],
+        "Jazz": [ "A genre of music that originated in New Orleans, characterized by flexible rhythmic tempo and improvisation." ],
+        "Classical": [ "Music composed in a structured form, often using orchestras and written from around 1750 to 1820." ],
+        "Pop": [ "Popular music, characterized by its catchy melodies and verses." ]
+      },
+      "Playlists": [ "Curated lists of music tracks." ]
+    },
+    "Movies": {
+      "Genres": {
+        "Action": [ "Films that are characterized by a series of intense activity or events." ],
+        "Drama": [ "Films that focus on character development and emotional themes." ],
+        "Documentary": [ "Non-fiction films that depict real-life events or stories." ],
+        "Comedy": [ "Films that are intended to be humorous or amusing." ]
+      },
+      "Watchlist": [ "List of movies to be watched in the future." ]
+    },
+    "Games": {
+      "PC": [ "Games that are played on a personal computer." ],
+      "Console": [ "Games that are played on gaming consoles like PlayStation, Xbox, etc." ],
+      "Mobile": [ "Games designed to be played on mobile devices." ]
+    }
+  },
+  "Sports": {
+    "Equipment": [ "Gear and tools used to play or engage in sports." ],
+    "TeamInfo": [ "Information about sports teams." ],
+    "Matches": {
+      "Scores": [ "Results of sporting events." ],
+      "Tickets": [ "Admission passes for sporting events." ],
+      "Memorabilia": [ "Objects kept as reminders of particular events or sportspeople." ]
+    },
+    "Training": {
+      "Workouts": [ "Regimens or routines to enhance physical abilities." ],
+      "DietPlans": [ "Guided plans for eating to achieve specific results, like fitness or weight loss." ]
+    }
+  },
+  "FoodAndDrink": {
+    "Recipes": {
+      "Vegetarian": [ "Dishes made without the use of meat." ],
+      "Vegan": [ "Dishes made without the use of any animal products." ],
+      "Desserts": [ "Sweet dishes usually served at the end of a meal." ],
+      "MainCourses": [ "Primary dishes in a meal, usually containing a protein source and other accompaniments." ]
+    },
+    "Restaurants": {
+      "Reservations": [ "Bookings made to secure a spot at a dining establishment." ],
+      "Reviews": [ "Feedback and opinions on restaurants by customers or critics." ],
+      "Menus": [ "Lists of food items available at a restaurant." ]
+    },
+    "Beverages": {
+      "Cocktails": [ "Alcoholic drinks made by mixing various spirits and ingredients." ],
+      "NonAlcoholic": [ "Drinks that don't contain alcohol." ]
+    }
+  },
+  "Miscellaneous": [ "Items that don't fit into any other category." ]
+}

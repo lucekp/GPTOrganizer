@@ -1,0 +1,57 @@
+{
+  "Development": {
+    "SourceCode": [ "Raw text files written in programming languages." ],
+    "Scripts": [ "Short programs or sequences of commands that automate tasks." ],
+    "FrameworksAndLibraries": [ "Pre-written code to aid in application development." ],
+    "Configurations": [ "Files used to set options for software or services." ],
+    "Databases": [ "Structured sets of data, including SQL dumps and schema files." ],
+    "Documentation": [ "Guides or manuals related to code or development processes." ],
+    "WebDevelopment": {
+      "Frontend": [ "Files related to the visual aspect of web applications, e.g., HTML, CSS, JS." ],
+      "Backend": [ "Server-side files, often containing business logic or database connections." ]
+    },
+    "VersionControl": {
+      "Commits": [ "Recorded changesets in source control." ],
+      "Branches": [ "Different versions or features in development." ],
+      "PullRequests": [ "Proposed code changes for review." ]
+    }
+  },
+  "System": {
+    "EnvironmentSetup": [ "Configuration files and scripts for setting up development environments." ],
+    "Logs": [ "Files that record system or application activities." ],
+    "Backups": [ "Copies of important files, databases, or system setups." ],
+    "VirtualMachines": [ "Files or configurations related to virtual development environments." ]
+  },
+  "Design": {
+    "UIMockups": [ "Visual representations of a user interface." ],
+    "Assets": [ "Images, icons, or graphics used in software or web development." ],
+    "Fonts": [ "Specific typeface files used in design or development." ]
+  },
+  "Learning": {
+    "Tutorials": [ "Guided lessons or courses on specific tech topics." ],
+    "Books": [ "Digital books related to programming, algorithms, design patterns, etc." ],
+    "ResearchPapers": [ "Detailed documents on cutting-edge technology or methodologies." ],
+    "Podcasts": [ "Audio recordings of tech talks, discussions, or interviews." ]
+  },
+  "ProjectManagement": {
+    "TaskLists": [ "To-do lists or user stories for development." ],
+    "Specifications": [ "Detailed descriptions of software requirements." ],
+    "FlowCharts": [ "Visual representations of a process or system." ],
+    "Meetings": {
+      "Agendas": [ "List of topics to be discussed in a meeting." ],
+      "Minutes": [ "Record of what was discussed or decided in a meeting." ]
+    }
+  },
+  "Communication": {
+    "Emails": [ "Saved or archived correspondence related to development or projects." ],
+    "Chats": [ "Recorded messages from team discussions or collaborations." ],
+    "Feedback": [ "Comments or reviews of one's work from peers or supervisors." ]
+  },
+  "Personal": {
+    "Resume": [ "A document detailing one's professional experience, skills, and projects." ],
+    "Portfolio": [ "A collection of one's best work, projects, or achievements." ],
+    "Certificates": [ "Documents certifying one's competence in certain technologies or methodologies." ],
+    "SideProjects": [ "Small applications or systems developed outside of work." ]
+  },
+  "Miscellaneous": [ "Files or items that don't fit into other categories." ]
+}
