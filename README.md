@@ -32,8 +32,6 @@ To clone the GPTOrganizer repository, run the following command:
 git clone https://github.com/lucekp/GPTOrganizer.git
 ```
 
-Replace `lucekp` with your GitHub username.
-
 ### Building the Tool
 
 After cloning the repository:
@@ -80,6 +78,33 @@ As with the source version, before running the tool, make sure to set up your Op
 
 2. Or, set an environment variable named `OPENAI_API_KEY` with your key as its value.
 
+## Obtaining an API Key from OpenAI:
+
+1. **Create an OpenAI Account**:
+   - If you don't have an OpenAI account, you'll first need to sign up. Go to the [OpenAI homepage](https://www.openai.com/) and click on `Sign Up` or `Join`.
+
+2. **Navigate to the Dashboard**:
+   - Once you have an account and are logged in, go to the OpenAI dashboard, which is typically available at `https://platform.openai.com/`.
+
+3. **Access the API Section**:
+   - In the dashboard, find and click on the `API` section.
+
+4. **Create a New API Key**:
+   - Click on `Create New Key` or a similar button that suggests generating a new API key.
+   - Give your key a name or description if prompted. This can help you remember its purpose later on, especially if you have multiple keys.
+
+5. **Copy the API Key**:
+   - Once the key is generated, it will be displayed to you. Ensure you copy it immediately and store it safely. For security reasons, the exact key value might not be shown to you again.
+
+6. **Keep Your Key Confidential**:
+   - Treat your API key like a password. Do not share it publicly or push it to public repositories. Always use environment variables or configuration files that are not tracked by version control systems to store sensitive information.
+
+7. **Set Limits (Optional)**:
+   - OpenAI might provide you options to set usage limits on your API key to prevent accidental overuse. Set them as per your requirements.
+
+8. **Check the Documentation**:
+   - It's always a good idea to familiarize yourself with OpenAI's documentation to understand rate limits, costs, and best practices.
+   
 ## Usage
 
 To start using the tool, navigate to the directory where `GPTOrganizer` is located, and execute:
@@ -89,6 +114,7 @@ GPTOrganizer.exe -k YOUR_API_KEY -d DIRECTORY_PATH
 ```
 
 Replace `YOUR_API_KEY` with your OpenAI API key, and `DIRECTORY_PATH` with the path to the directory you'd like to organize.
+Files will be copied or moved depending on flag specified to the main folder "GPTOrganizer" within same location as target folder for organization.
 
 ## Options
 
